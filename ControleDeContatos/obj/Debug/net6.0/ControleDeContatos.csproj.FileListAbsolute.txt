@@ -1,0 +1,52 @@
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\appsettings.json
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\ControleDeContatos.staticwebassets.runtime.json
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\ControleDeContatos.exe
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\ControleDeContatos.deps.json
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\ControleDeContatos.runtimeconfig.json
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\ControleDeContatos.dll
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\ControleDeContatos.pdb
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.csproj.AssemblyReference.cache
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.AssemblyInfoInputs.cache
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.AssemblyInfo.cs
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.csproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.RazorAssemblyInfo.cache
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.RazorAssemblyInfo.cs
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\scopedcss\bundle\ControleDeContatos.styles.css
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\scopedcss\projectbundle\ControleDeContatos.bundle.scp.css
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.dll
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\refint\ControleDeContatos.dll
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.pdb
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.genruntimeconfig.cache
+C:\Users\josem\OneDrive\Documentos\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ref\ControleDeContatos.dll
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\appsettings.json
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\ControleDeContatos.staticwebassets.runtime.json
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\ControleDeContatos.exe
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\ControleDeContatos.deps.json
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\ControleDeContatos.runtimeconfig.json
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\ControleDeContatos.dll
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\ControleDeContatos.pdb
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.csproj.AssemblyReference.cache
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.AssemblyInfoInputs.cache
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.AssemblyInfo.cs
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.csproj.CoreCompileInputs.cache
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.RazorAssemblyInfo.cache
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.RazorAssemblyInfo.cs
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\scopedcss\bundle\ControleDeContatos.styles.css
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\scopedcss\projectbundle\ControleDeContatos.bundle.scp.css
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.dll
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\refint\ControleDeContatos.dll
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.pdb
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.genruntimeconfig.cache
+C:\Users\Jose Mariotto\Documents\Projeto MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ref\ControleDeContatos.dll
